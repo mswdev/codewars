@@ -1,4 +1,4 @@
-package java.seven_kyu;
+package seven_kyu;
 
 public class JadenCasingStrings {
 

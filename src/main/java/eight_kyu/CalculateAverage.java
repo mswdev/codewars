@@ -1,4 +1,4 @@
-package java.eight_kyu;
+package eight_kyu;
 
 import java.util.Arrays;
 

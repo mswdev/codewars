@@ -1,4 +1,4 @@
-package java.six_kyu;
+package six_kyu;
 
 public class DetectPangram {
 
